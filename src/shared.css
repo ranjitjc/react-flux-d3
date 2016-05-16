@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+}
+nav a {
+  padding-left: 5px;
+  flex: 2
+}
+div h1{
+    display: flex;
+    flex: 1;
+}
